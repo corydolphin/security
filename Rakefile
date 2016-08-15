@@ -1,5 +1,5 @@
 task :beta do
-  echo "YOLO"
+  puts "YOLO"
 end
 
 task default: :beta
